@@ -1,0 +1,17 @@
+
+version: 2
+
+models:
+    - name: EV_VEHICLES
+      description: "EV_VEHICLES"
+    - name: EV_CHARING_STATIONS
+      description: "EV_CHARING_STATIONS"
+    - name: DIM_DATE
+      description: "DIM_DATE"
+    - name: DIM_CHARGING_STATIONS
+      description: "DIM_CHARGING_STATIONS"
+    - name: DIM_EV_VEHICLES
+      description: "DIM_EV_VEHICLES"
+    - name: FACT_EV_REGION_YEAR_SUMMARY
+      description: "FACT_EV_REGION_YEAR_SUMMARY"
+

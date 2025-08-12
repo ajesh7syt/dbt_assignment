@@ -7,3 +7,4 @@ sources:
     tables:
       - name: EV_ROAM_CHARING_STATIONS_JSON
       - name: MOTOR_VEHICLE_REGISTER
+      - name: NZ_ADDRESSES
